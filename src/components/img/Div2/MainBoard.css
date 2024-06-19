@@ -1,0 +1,214 @@
+.main{
+  /* background-color: red; */
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  display: flex;
+  width: 100%;
+  /* background-color: red; */
+}
+
+.div{
+  height: 110px;
+  width: 130px;
+  background-color: blueviolet;
+  margin: 10px 20px;
+  border-radius: 15px;
+}
+
+.div i{
+  background-color: aliceblue;
+  color: blueviolet;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  /* text-align: center; */
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div3{
+  display: flex;
+  justify-content: space-between;
+}
+
+.star{
+  background-color: blueviolet !important;
+  color: gold !important;
+  margin-left: 5px;
+}
+
+.p{
+ margin-left: 10px;
+ margin-bottom: 2px;
+}
+
+.g{
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+}
+.s{
+  color: white;
+  font-size: 13px;
+}
+
+.h6{
+  color: rgb(2, 2, 113);
+  font-weight: 700;
+  margin-left: 40px;
+  margin-top: 5px;
+}
+
+/* hgrhrg;hp */
+
+.divxy{
+  background-color: whitesmoke;
+}
+
+.divxy p{
+  color: black;
+
+}
+
+.green{
+  color: rgb(3, 155, 143) !important;
+}
+
+.greens{
+  background-color: rgb(3, 155, 143) !important;
+}
+
+.pinks{
+  background-color: rgb(222, 112, 131);
+}
+
+
+.pink{
+  color: rgb(222, 112, 131) !important;
+}
+
+.blues{
+background-color: rgb(66, 3, 125);
+}
+
+.blue{
+  color: rgb(66, 3, 125);
+}
+
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex i{
+  font-size: 25px;
+}
+
+.file{
+  height: 50px;
+  background-color: rgb(227, 227, 227);
+  margin-top: 10px;
+  width: 90%;
+  margin-left: 29px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.file i{
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+  /* margin-top: 5px; */
+  font-size: 12px;
+  padding: 16px;
+}
+
+.blue{
+  background-color: rgb(66, 3, 125);
+  margin: 2px 20px;
+  height: 30px;
+  width: 30px;
+  border-radius: 5px;
+ 
+}
+
+
+.pinkss{
+  background-color: rgb(222, 112, 131);
+  margin: 2px 20px;
+  height: 30px;
+  width: 30px;
+  border-radius: 5px;
+}
+
+.lightblue{
+  background-color: blueviolet;
+  margin: 2px 20px;
+  height: 30px;
+  width: 30px;
+  border-radius: 5px;
+}
+
+.greenss{
+  background-color: rgb(3, 155, 143);
+  margin: 2px 20px;
+  height: 30px;
+  width: 30px;
+  border-radius: 5px;
+}
+
+.icon-div{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin-left: 0;
+}
+
+#icons{
+   color: blueviolet;
+   font-size: 15px
+}
+
+.icon-div p{
+  font-size: 13px;
+  color: rgb(126, 126, 126);
+}
+
+
+
+.boxx{
+  width: 90%;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  background-color: rgb(227, 227, 227);;
+  align-items: center;
+  padding: 20px;
+  margin: 10px 25px 0 25px;
+}
+
+.boxx i{
+  font-size: 20px;
+  color: #777;
+}
+
+.boxx input {
+  flex: 1;
+  height: 40px;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  padding-left: 10px;
+  background-color: rgb(227, 227, 227);;
+}

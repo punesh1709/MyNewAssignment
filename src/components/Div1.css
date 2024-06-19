@@ -1,0 +1,39 @@
+.story{
+ height: 100px;
+ width: 100px;
+ background-color: whitesmoke;
+ margin: auto;
+ border-radius: 50%;
+ margin-top: 10px;
+background-image: url("https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600");
+background-size: cover;
+}
+
+.user-lock{
+  color: white;
+  
+  font-size: 10px;
+}
+
+.user-lock i{
+  margin: 10px 25px;
+}
+
+.user-lock span{
+  margin-left: 15px;
+}
+
+.mainDiv{
+  margin-top: 30px;
+}
+
+.myClass{
+
+  background-color: rgb(5, 5, 117);
+}
+
+.bottom{
+  /* background-color: red; */
+  margin-top: 140%;
+ 
+}

@@ -1,0 +1,33 @@
+.Container{
+  display: flex;
+   background-color: white;
+   height: 95vh;
+   width: 90vw;
+   border-radius: 30px;
+}
+
+.div1{
+ height: 100%;
+ width: 13vw;
+ background-color: rgb(3, 3, 65);
+border-top-left-radius: 28px;
+border-bottom-left-radius: 28px;
+}
+
+.mainBord{
+  height: 100%;
+  /* background-color: red; */
+  width: 55vw;
+}
+
+.div2{
+  display: flex;
+}
+
+.secBord{
+  height: 92%;
+  background-color: rgb(227, 227, 227);
+  width: 19vw;
+  border-radius: 30px;
+  margin-top: 20px;
+}
